@@ -31,3 +31,11 @@ This project is a voice-activated assistant that provides real-time updates on g
    ```bash
    git clone https://github.com/nitya-balaji/covid-voice-assistant.git
 
+2. Navigate to the project folder:
+   ```bash
+   cd coronavirus-voice-assistant
+
+3. Run the program:
+   ```bash
+   python main.py
+
