@@ -26,7 +26,7 @@ This project is a voice-activated assistant that provides real-time updates on g
 
 ---
 
-## How to Run
+## How to Run the Program
 1. Clone the repository:
    ```bash
    git clone https://github.com/nitya-balaji/covid-voice-assistant.git
