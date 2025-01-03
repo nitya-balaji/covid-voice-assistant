@@ -24,3 +24,10 @@ This project is a voice-activated assistant that provides real-time updates on g
   - Say "update" to refresh the data.
   - Say "stop" to end the session.
 
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nitya-balaji/covid-voice-assistant.git
+
